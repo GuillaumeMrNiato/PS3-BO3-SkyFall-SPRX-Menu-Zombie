@@ -1,0 +1,1334 @@
+#
+#  Sat Apr 09 16:46:06 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0001
+#
+log_version_update on
+logging on
+removed_entry_check on
+target_version_check on
+  0xa2ab9e2b F/0 48 f4d6aa0061490defa97f32f2b6bb6d0be11c5bb4 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:04:50 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0002
+#
+  0xa2ab9e2b F/0 48 112e181ab7dd06c5212470b8d561eb63d0362e5e .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:09:57 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0003
+#
+  0xa2ab9e2b F/0 48 b14d96467da92cbb21541621cf90090fe00db8de .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:11:16 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0004
+#
+  0xa2ab9e2b F/0 48 8af4ca1b359df7fec1c77cb8e0c983ceca63f44b .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:17:08 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0005
+#
+  0xa2ab9e2b F/0 48 415140180f1561375e14125a4a13137982cd7e44 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:22:29 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0006
+#
+  0xa2ab9e2b F/0 48 6508e4786a94fa745f742247cd35ed4f70b13ecf .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:26:52 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0007
+#
+  0xa2ab9e2b F/0 48 dc247084d716b42a77e7f62f6ec42a660023f142 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:29:51 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0008
+#
+  0xa2ab9e2b F/0 48 efb1f0479d93edf0c30ff8a9ccb38c7854af721c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:41:08 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0009
+#
+  0xa2ab9e2b F/0 48 9560b197ffe7ac94e8c38376760fa35c264acef9 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:50:54 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000a
+#
+  0xa2ab9e2b F/0 48 2328f0631c187f1d90484946162bad52b713c24e .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 17:55:24 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000b
+#
+  0xa2ab9e2b F/0 48 3b12af8ebe0e9878e64f565b0c89279d435002c3 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 18:02:11 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000c
+#
+  0xa2ab9e2b F/0 48 b09a98066972a272c80b8a7a69a5fec5df407864 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 18:12:57 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000d
+#
+  0xa2ab9e2b F/0 48 3b12af8ebe0e9878e64f565b0c89279d435002c3 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 18:26:38 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000e
+#
+  0xa2ab9e2b F/0 48 192597af8f974d6acfa5cb53692f841bf6f1cc54 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 19:47:25 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000f
+#
+  0xa2ab9e2b F/0 8 645c68e38cf6185590dbd510f88e56c0de0738e9 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 19:48:14 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0010
+#
+  0xa2ab9e2b F/0 56 01e3b44cf308aede79f1a272c728dcf9e01b310a .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 19:48:55 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0011
+#
+  0xa2ab9e2b F/0 48 055995cec62168ed8b28b04b29091c0d5a91b4f8 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 19:49:32 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0012
+#
+  0xa2ab9e2b F/0 48 53480eccbbe093d70e588fe8d502dcf45169c645 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 19:54:14 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0013
+#
+  0xa2ab9e2b F/0 48 73656eb57071fb82823f7868d4c85de5b89c8b9c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 20:29:09 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0014
+#
+  0xa2ab9e2b F/0 48 fc12d2e11403284a2677db13d83553b99f187569 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 20:36:40 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0015
+#
+  0xa2ab9e2b F/0 76 831b293cc695497cf7b9dca82b1750dbabc0ebb6 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 20:39:18 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0016
+#
+  0xa2ab9e2b F/0 72 28f8bd8faa07ea67422bff91f6dad9e09e120582 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 20:43:00 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0017
+#
+  0xa2ab9e2b F/0 48 6dba620f366ee1461d0f3867a1ffb3801cfaffca .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 20:47:46 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0018
+#
+  0xa2ab9e2b F/0 48 86e2338500c846b352e48d6c4c3cc39762669017 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 21:01:07 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0019
+#
+  0xa2ab9e2b F/0 48 447cbecb5a5c70e32c79734723174aa47b435304 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 22:03:17 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001a
+#
+  0xa2ab9e2b F/0 8 645c68e38cf6185590dbd510f88e56c0de0738e9 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 22:05:07 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001b
+#
+  0xa2ab9e2b F/0 48 a2d82062f639a27119f01848a684f02fb0144cb4 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 22:05:33 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001c
+#
+  0xa2ab9e2b F/0 48 c62a813e331bcb2e151a38b4fc454c85b4a05c30 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 22:18:29 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001d
+#
+  0xa2ab9e2b F/0 48 24e4eb1e76fef56c58fe387d42bdc088df25eea5 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 22:24:01 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001e
+#
+  0xa2ab9e2b F/0 48 1f252bb6e5087ed0e8fc09203a12b822a253b699 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 22:31:25 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001f
+#
+  0xa2ab9e2b F/0 48 1647dee4d471394bc7609b1dd67706a196b3c59d .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 22:36:39 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0020
+#
+  0xa2ab9e2b F/0 48 ca7966b4f1af8ed9f0d9988e15909939637e5698 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 23:02:29 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0021
+#
+  0xa2ab9e2b F/0 48 bd73a07912141f72a8d5f539af3e3a00808fd040 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 23:05:13 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0022
+#
+  0xa2ab9e2b F/0 48 72be676b9b3cccabf3106cb0fa172e897854b71b .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 23:48:35 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0023
+#
+  0xa2ab9e2b F/0 48 1ee9c890bd024a61cdb85eba6502d1cf93d1c75a .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 23:53:53 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0024
+#
+  0xa2ab9e2b F/0 48 e70585cbec0d5d1fb4c26fe67fa97303bf96ff2d .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 23:55:04 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0025
+#
+  0xa2ab9e2b F/0 48 326efe320cb11d770a0a12c9e1abe159688cb329 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 23:56:58 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0026
+#
+  0xa2ab9e2b F/0 48 48b097e871e9b49a8bceb1dfc9fbb90e0afa812c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 02:10:33 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0027
+#
+  0xa2ab9e2b F/0 48 fcb399771bbc46f1d6bbb487a051051136f5b8a6 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 02:36:55 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0028
+#
+  0xa2ab9e2b F/0 48 dc685e266361d11750bee5caf91a233f3ab999cc .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 12:45:34 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0029
+#
+  0xa2ab9e2b F/0 48 0e7c1ee06650805ca8efb1141d11334ec8138620 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 12:47:15 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x002a
+#
+  0xa2ab9e2b F/0 48 dc685e266361d11750bee5caf91a233f3ab999cc .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 12:57:33 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x002b
+#
+  0xa2ab9e2b F/0 48 1cab4f321675afeba48cbb69635f0c629a3cbfec .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 13:07:02 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x002c
+#
+  0xa2ab9e2b F/0 48 0d6b57b773b7942763b958545b34156a1a501719 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 15:09:01 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x002d
+#
+  0xa2ab9e2b F/0 48 dc685e266361d11750bee5caf91a233f3ab999cc .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 15:40:26 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x002e
+#
+  0xa2ab9e2b F/0 48 c5666f64cd4d362c2a814f9b802be05729430717 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 15:49:08 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x002f
+#
+  0xa2ab9e2b F/0 48 41166154ae470ae15ebc503bf5d085d898da08b5 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 15:59:57 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0030
+#
+  0xa2ab9e2b F/0 48 216d7eb4450eb1c21e9e8b69d75c019e7ba73865 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 16:11:38 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0031
+#
+  0xa2ab9e2b F/0 48 9e8d475303e416dddbb5380eefc93406b44c00ec .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 16:17:22 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0032
+#
+  0xa2ab9e2b F/0 48 59ff78279f87d9edff5ba057f158b6370ce1d465 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 16:23:01 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0033
+#
+  0xa2ab9e2b F/0 48 d57582ee9417742e7ca3f5f681473e4285dfaa3c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 16:26:30 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0034
+#
+  0xa2ab9e2b F/0 48 267dc655f91d06ea6f297c77ff20e6a5411cee2b .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 16:29:04 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0035
+#
+  0xa2ab9e2b F/0 48 2119dbb3cb51135fd1604406b9345fce67f39f7a .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 16:32:20 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0036
+#
+  0xa2ab9e2b F/0 48 94fd0b584dafea7ab3de0c4b10f94b538eb9f862 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 16:36:51 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0037
+#
+  0xa2ab9e2b F/0 48 e8fddfbab82fa480c1589c05aa4bf8e27adf6f60 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 16:49:17 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0038
+#
+  0xa2ab9e2b F/0 48 bc14850812d0b0b18e60e7e8b429977fa47f022c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:22:34 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0039
+#
+  0xa2ab9e2b F/0 48 150e13600e71a78c231a8576c10b1e803f94c33a .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:24:15 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x003a
+#
+  0xa2ab9e2b F/0 48 db6184e74ed1ec95fe8d034f37e58c8f421a3466 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:31:58 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x003b
+#
+  0xa2ab9e2b F/0 48 8ed3f855530783fe7a5e3537a6c0e4a33557051a .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:35:55 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x003c
+#
+  0xa2ab9e2b F/0 48 6a47bf913de910e6db2e280ca88d31f01637b3ad .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:37:53 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x003d
+#
+  0xa2ab9e2b F/0 48 b756d7724a27c7505c4b97cefc58465e6f710187 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:40:07 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x003e
+#
+  0xa2ab9e2b F/0 48 a8c274b18155af26ffdf40f62c4d4b0616b55646 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:42:23 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x003f
+#
+  0xa2ab9e2b F/0 48 3cd56edef1345f5fba2bb8760e0332f67e05afd8 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:53:49 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0040
+#
+  0xa2ab9e2b F/0 48 f0fabb32f5ab9f0909dd1cd612c5cfa400c9a458 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 17:57:51 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0041
+#
+  0xa2ab9e2b F/0 48 ac4cb9a84ca12ba4e4ce2fba45249287e54f7814 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 18:05:35 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0042
+#
+  0xa2ab9e2b F/0 48 1869a1249f5113dda4a6d758e27db95d04c4061c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 18:08:54 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0043
+#
+  0xa2ab9e2b F/0 48 6bc714490deb9bdb642cccbbb8048e699454edc5 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 18:11:44 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0044
+#
+  0xa2ab9e2b F/0 48 1869a1249f5113dda4a6d758e27db95d04c4061c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 18:16:43 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0045
+#
+  0xa2ab9e2b F/0 48 3303ffb82ebb4854ba56d90b8ec04acaa21b9659 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 18:26:40 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0046
+#
+  0xa2ab9e2b F/0 48 9d6bb0a197195c2106486707a0e36a91049bb079 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 10 22:56:23 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0047
+#
+  0xa2ab9e2b F/0 48 54894eedf8dbde26f092591296bea7096d4a3046 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Apr 11 13:35:44 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0048
+#
+  0xa2ab9e2b F/0 48 d270dae7e517664a40dfc9a60ddcb4b3c7370374 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Apr 11 13:38:00 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0049
+#
+  0xa2ab9e2b F/0 48 db60cc14b6a7293079a7a23f9ad86426f00ec311 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Apr 11 13:39:16 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x004a
+#
+  0xa2ab9e2b F/0 48 d270dae7e517664a40dfc9a60ddcb4b3c7370374 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Tue Apr 12 12:37:53 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x004b
+#
+  0xa2ab9e2b F/0 48 94f621e478fa1f213c476649111ea9441648ffa5 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed Apr 13 14:21:59 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x004c
+#
+  0xa2ab9e2b F/0 48 3a6a0f52990ee17269ff6795329e2ab1c6955297 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Thu Apr 14 20:33:14 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x004d
+#
+  0xa2ab9e2b F/0 48 149f1feda89720832b002d5853c19b63643a9a6a .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 15 10:00:39 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x004e
+#
+  0xa2ab9e2b F/0 48 3b5694d4bfd1b16d00d9a6b7e7a183f43e69487e .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 15 10:09:31 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x004f
+#
+  0xa2ab9e2b F/0 48 879f2b3c63e0bc3c2be32bb66507d0ab79c33c66 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 15 10:13:48 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0050
+#
+  0xa2ab9e2b F/0 48 654d5fcae2d5f5ba705ead255ee9d8ca13697131 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 15 10:20:33 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0051
+#
+  0xa2ab9e2b F/0 48 9ad79f58344f163eb646df65b9bbd5c8c84f11d6 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 15 10:25:07 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0052
+#
+  0xa2ab9e2b F/0 48 99a147191007983755ad96e5a72947ca7dd9d821 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 15 16:53:44 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0053
+#
+  0xa2ab9e2b F/0 48 8fbf2fa2ac0c0a8fc657144b48e3a82feb7abfa4 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 15 17:03:33 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0054
+#
+  0xa2ab9e2b F/0 48 4fb2467377ee73b725a0bc477ca19b97504553b8 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 15 17:12:09 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0055
+#
+  0xa2ab9e2b F/0 48 80b46ce7d79bb53a9bf04ff14300ef593714ce85 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 16 13:34:48 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0056
+#
+  0xa2ab9e2b F/0 48 16a82f8cde01580f8f763ff1dca9befd38d2e7c5 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 17 15:04:43 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0057
+#
+  0xa2ab9e2b F/0 48 2069e1e4b11a00d0677a755a6289244a48399fed .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 17 15:08:31 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0058
+#
+  0xa2ab9e2b F/0 48 230cff12b61a011d9dc996d0252e32fffa906270 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 17 15:21:22 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0059
+#
+  0xa2ab9e2b F/0 48 b7276e73cd67a5779b1faa88d01ba6748c660363 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 17 19:54:21 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x005a
+#
+  0xa2ab9e2b F/0 48 38eea1de2a1b30e3cf3d072bae0e5533ea500bdb .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 17 20:09:48 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x005b
+#
+  0xa2ab9e2b F/0 48 64ef955e520429ff46a780508a4aab9d5b41f3fa .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun Apr 17 20:14:50 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x005c
+#
+  0xa2ab9e2b F/0 48 16a82f8cde01580f8f763ff1dca9befd38d2e7c5 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed Apr 20 14:47:40 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x005d
+#
+  0xa2ab9e2b F/0 48 503a687a01d02d5e93edb692a90cc23f9c8b8bca .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed Apr 20 18:55:24 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x005e
+#
+  0xa2ab9e2b F/0 48 4c5ed5cffedf351d58d4201360d7eda1a11f1176 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed Apr 20 18:55:42 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x005f
+#
+  0xa2ab9e2b F/0 48 b1ef6851c5334ae4a613bb684cb617751b3f310d .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed May 04 22:30:28 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0060
+#
+  0xa2ab9e2b F/0 48 80feaca5246e6c2839fb729750ce54dadae16d47 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed May 04 22:30:44 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0061
+#
+  0xa2ab9e2b F/0 48 c2cdb1e038e58ba6c122988c50cbf4d0c3de639c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sun May 08 13:30:09 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0062
+#
+  0xa2ab9e2b F/0 48 80feaca5246e6c2839fb729750ce54dadae16d47 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed May 18 17:53:27 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0063
+#
+  0xa2ab9e2b F/0 48 dec7cafd275f2c4753250536822c6741615b089b .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed May 18 17:55:39 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0064
+#
+  0xa2ab9e2b F/0 48 2d12e125b1238369c71730c1bcc6ce36ff1fc5c8 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed May 18 17:57:22 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0065
+#
+  0xa2ab9e2b F/0 48 a4b71d60c78e012390a66f8ec43f81b5e216e606 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 19:33:55 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0066
+#
+  0xa2ab9e2b F/0 48 e1086986304d1a11004e131a74f15bbdb462b3a4 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 19:35:31 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0067
+#
+  0xa2ab9e2b F/0 48 dfedb97a05f921721e5080d48cee8252d774ea86 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 20:03:11 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0068
+#
+  0xa2ab9e2b F/0 48 032f233ebbef5d7d31e6a7ea8c3198b9bdc83bb2 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 20:09:46 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0069
+#
+  0xa2ab9e2b F/0 48 3492a241c8b9a06b3e4fdb8f87503e25aa7e00fb .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 20:11:53 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x006a
+#
+  0xa2ab9e2b F/0 48 4291d43ada378ad3e9d139f053d52680a9dd71b4 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 20:14:46 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x006b
+#
+  0xa2ab9e2b F/0 48 d9aac4b21ab6fc8a549308e3505146baf77d12c9 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 20:17:06 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x006c
+#
+  0xa2ab9e2b F/0 48 a22cb39eeed34e34bf9e701dc66ee799632b77dd .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 20:18:18 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x006d
+#
+  0xa2ab9e2b F/0 48 4544e1bb48e6014795dc8cf9b9938c303a44729a .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 03 20:32:32 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x006e
+#
+  0xa2ab9e2b F/0 48 8bd8ad3827ae99dbdc00bbc56e5c64113607e057 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 10 15:33:43 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x006f
+#
+  0xa2ab9e2b F/0 48 67d3492f93c38fed50bbbc5c3879618492d24558 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 10 15:39:04 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0070
+#
+  0xa2ab9e2b F/0 48 96ebc8bbed54a2c0861e9bac3fe00d92327fbcdb .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 10 17:42:20 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0071
+#
+  0xa2ab9e2b F/0 48 1fd90eb1faae51c59d35499553d20c91ac3d60f3 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Jun 20 18:12:45 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0072
+#
+  0xa2ab9e2b F/0 48 e1bb23fded929f1ea8394bb1d73f9df79ec5fd3b .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 18:08:19 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0073
+#
+  0xa2ab9e2b F/0 48 30cc705d27fff4b04f64614353f61736a5c8dca3 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 18:11:07 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0074
+#
+  0xa2ab9e2b F/0 48 7af374e74cfbb9592f992daacc38bf876365c16e .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 18:21:33 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0075
+#
+  0xa2ab9e2b F/0 48 8c4fcc09a2ae2f13735632ddbb86a04427dc1074 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 18:24:54 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0076
+#
+  0xa2ab9e2b F/0 48 4aba4a79a4419c176cd6874f2fd186b207d4b493 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 18:31:39 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0077
+#
+  0xa2ab9e2b F/0 48 8c4fcc09a2ae2f13735632ddbb86a04427dc1074 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 18:37:34 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0078
+#
+  0xa2ab9e2b F/0 48 e1f06a2d23ed3cac452f4627906552c067d568f7 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 18:45:59 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0079
+#
+  0xa2ab9e2b F/0 48 d059adccc183dd2b394d2248f32d8706945a5dff .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 19:11:11 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x007a
+#
+  0xa2ab9e2b F/0 48 f3b3e792f49baf01127244ef8332a97852bd6a1c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 19:22:29 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x007b
+#
+  0xa2ab9e2b F/0 48 31d2a072c7c3b404af219c33e25e8a5ec469c6cd .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 19:28:05 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x007c
+#
+  0xa2ab9e2b F/0 48 8df750f78b9cb0c2fc6a2f3986a599a4c6083b48 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Jun 24 19:32:46 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x007d
+#
+  0xa2ab9e2b F/0 48 dd752f24dafbfa32d641ca017cf308878d05f657 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Jun 27 11:38:04 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x007e
+#
+  0xa2ab9e2b F/0 48 c19b7af1dd83ac280994956bb437fac0f265d56f .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Jun 27 11:49:22 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x007f
+#
+  0xa2ab9e2b F/0 48 7e53a462dd49eba18101a597800a65342cfa95b6 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Jun 27 11:53:25 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0080
+#
+  0xa2ab9e2b F/0 48 dd752f24dafbfa32d641ca017cf308878d05f657 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Jul 02 08:42:27 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0081
+#
+  0xa2ab9e2b F/0 48 0d37add3e38552fd642fd289efc32856451d84e4 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Jul 02 08:47:18 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0082
+#
+  0xa2ab9e2b F/0 48 725f90a26a559948d1e6db26abce446443a37cac .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Jul 02 08:49:48 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0083
+#
+  0xa2ab9e2b F/0 48 15bd27a3f47a49e2f36b8fa69f2aac4415096bcc .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Jul 02 08:51:48 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0084
+#
+  0xa2ab9e2b F/0 48 3d74f58a273b49a8985826c0a5725722bee350de .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Jul 16 20:05:48 2016
+#  cellPrx_MrNiato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_MrNiato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0085
+#
+  0xa2ab9e2b F/0 48 6000ef3ad26e5e16937c98f44def5231df9932ba .text _BlackOps3ZombieMenuNoHost_export_function

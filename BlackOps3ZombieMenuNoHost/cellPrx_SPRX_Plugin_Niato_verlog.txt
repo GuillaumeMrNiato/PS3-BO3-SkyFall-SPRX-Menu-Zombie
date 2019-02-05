@@ -1,0 +1,294 @@
+#
+#  Mon Feb 08 15:11:40 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0001
+#
+log_version_update on
+logging on
+removed_entry_check on
+target_version_check on
+  0xa2ab9e2b F/0 8 645c68e38cf6185590dbd510f88e56c0de0738e9 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Feb 08 15:38:21 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0002
+#
+  0xa2ab9e2b F/0 48 3414718109ed99c74ae52c45ad6b41e864857564 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Feb 08 15:40:21 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0003
+#
+  0xa2ab9e2b F/0 48 eb85b28865cae6330711c7854327408608ebc94d .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Feb 08 15:44:33 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0004
+#
+  0xa2ab9e2b F/0 48 02dff0f4f0ef03e73ff9fa192f7a499f8f0c0a2b .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Feb 08 16:02:51 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0005
+#
+  0xa2ab9e2b F/0 48 9b9d16bc560461fbcac922bb7b674f0fdf7d8607 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Feb 08 16:12:04 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0006
+#
+  0xa2ab9e2b F/0 48 036764c81462b1f8a201d9e688a07bb6db859f25 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Feb 08 16:17:27 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0007
+#
+  0xa2ab9e2b F/0 48 a7f0524944f1d4a136eea32d74cbd1bb844f3342 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Mon Feb 08 21:18:02 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0008
+#
+  0xa2ab9e2b F/0 48 538c04aec1c296abca51d81169456512b13aece3 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Tue Feb 09 14:38:14 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0009
+#
+  0xa2ab9e2b F/0 48 c07a1fac57d97a66ce879eec4e0b8ed7befcac33 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Tue Feb 09 15:03:10 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000a
+#
+  0xa2ab9e2b F/0 48 e8d4d8654dccc0042d99eafdff882f35abc78709 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Tue Feb 09 15:36:25 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000b
+#
+  0xa2ab9e2b F/0 48 9023fe1d067f81a9f0f8a2c6d7a15e819a3577b3 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Wed Feb 17 17:39:57 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000c
+#
+  0xa2ab9e2b F/0 48 5a5f13b0653562c9b8a5146ff204b8d33e9d245a .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Tue Apr 05 13:25:20 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000d
+#
+  0xa2ab9e2b F/0 48 579e1c8e3bf255c49d0738bf50bd0247bbeb0c64 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Tue Apr 05 13:51:21 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000e
+#
+  0xa2ab9e2b F/0 48 2e15d4166eda8feba5a94903c2f32859bba4dee7 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 08 22:57:07 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x000f
+#
+  0xa2ab9e2b F/0 48 79de430b555785b805a58a91a5bca79888ff1859 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 08 23:43:50 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0010
+#
+  0xa2ab9e2b F/0 48 6a769d64893eb95089ff017d58a25f2a0117170e .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Fri Apr 08 23:57:08 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0011
+#
+  0xa2ab9e2b F/0 48 0081de40d6a2052fe1520edd057d14121a6af2a6 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 00:08:29 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0012
+#
+  0xa2ab9e2b F/0 48 17650295ee3de5a6a24e5648a5dbf6544a2c5358 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 15:37:03 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0013
+#
+  0xa2ab9e2b F/0 48 1002ec55d56507b949f869a50254d91565024bcb .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 15:43:07 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0014
+#
+  0xa2ab9e2b F/0 48 cdc17c2f72cdd86d70f58baf5d3842130b4910cc .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 15:47:25 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0015
+#
+  0xa2ab9e2b F/0 48 2a5ca31f88279cf359c5a151d3d6aac4a17f0a94 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 15:56:38 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0016
+#
+  0xa2ab9e2b F/0 48 002fbf4ceb5361d4c5e36cae99999194a80e0bf0 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 16:01:41 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0017
+#
+  0xa2ab9e2b F/0 48 4a6dec5c963b84e81d38401b6a36567dae02dbab .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 16:04:55 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0018
+#
+  0xa2ab9e2b F/0 48 053acaa133707f26755ecf0a23ad3973357ac253 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 16:07:35 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x0019
+#
+  0xa2ab9e2b F/0 48 3bf055cf57235d7f56a477045edaf0a17bff975c .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 16:17:17 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001a
+#
+  0xa2ab9e2b F/0 48 842f196079a8257a5ac345c520ea444358998e20 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 16:22:21 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001b
+#
+  0xa2ab9e2b F/0 48 e2083e02e4faa3f80089613fd5e36f4398972a66 .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 16:28:56 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001c
+#
+  0xa2ab9e2b F/0 48 70d7c50455cdb1c6c3cacbff84523a179875d3fd .text _BlackOps3ZombieMenuNoHost_export_function
+#
+#  Sat Apr 09 16:45:03 2016
+#  cellPrx_SPRX_Plugin_Niato: attr=0x1, nvar=0, nfunc=1, ntls=0 levels=0x1 stubfilename=cellPrx_SPRX_Plugin_Niato_stub
+#      generate by ppu-lv2-prx-libgen.exe (1.14.4.7 2010-07-06 21:08:16, 2008-04-01 20:38:42)
+#  target_version_check on,  removed_entry_check on,  logging on
+#  log_version_update on
+#
+version 0x001d
+#
+  0xa2ab9e2b F/0 48 f4d6aa0061490defa97f32f2b6bb6d0be11c5bb4 .text _BlackOps3ZombieMenuNoHost_export_function

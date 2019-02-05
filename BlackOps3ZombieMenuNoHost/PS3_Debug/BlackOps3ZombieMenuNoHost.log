@@ -1,0 +1,137 @@
+﻿     0>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.Redirect.props(23,3): warning MSB4011: impossible d'importer "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\PS3\Microsoft.Cpp.PS3.default.props" à nouveau. Il a déjà été importé à "C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v110\Microsoft.Cpp.Default.props (46,3)". Il s'agit d'une erreur de création de build. Cette importation sera ignorée. [C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\BlackOps3ZombieMenuNoHost.vcxproj]
+La génération a démarré 16/07/2016 20:09:23.
+     1>Projet "C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\BlackOps3ZombieMenuNoHost.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>InitializeBuildStatus:
+         Mise à jour de l'horodatage "PS3_Debug\MrNiato.unsuccessfulbuild".
+       ClCompile:
+         Toutes les sorties sont à jour.
+         prx.cpp
+         ps3ppusnc.exe -D_DEBUG -D__CELL_ASSERT__ -D__PS3__ -DLIBNAME=cellPrx_MrNiato -DSTUBNAME=cellPrx_MrNiato_stub -o PS3_Debug\prx.o -c -Xmserrors -Xdepmode=1 -MD -I. -IC:/usr/local/cell\target\ppu\include -IC:/usr/local/cell\target\common\include -I"C:/usr/local/cell\host-win32\sn\ppu\include" -g -O0 -Xc-=rtti --use_pch="PS3_Debug\MrNiato.pch" "C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp"
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Lib.h(92,20): warning 69: integer conversion resulted in truncation
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Dialog.h(116,20): warning 178: variable "ret" was declared but never referenced
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Dialog.h(231,20): warning 178: variable "ret" was declared but never referenced
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Dialog.h(282,20): warning 552: variable "ret" was set but never used
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Auth.h(97,2): warning 112: statement is unreachable
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Auth.h(100): warning 942: missing return statement at end of non-void function "SocketRequest"
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Auth.h(175,7): warning 118: non-void function "GetKey" should return a value
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(69,1): warning 376: declaration requires a typedef name
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,233): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,247): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,261): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,275): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,293): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,311): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,329): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(3,7): error 257: invalid redeclaration of type name "color_t" (declared at line 3)
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(10,6): error 257: invalid redeclaration of type name "hudelem_color_t" (declared at line 10)
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(15,7): error 257: invalid redeclaration of type name "hudelem_s" (declared at line 15)
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(64,15): error 257: invalid redeclaration of type name "game_hudelem_s" (declared at line 64)
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(69,1): warning 376: declaration requires a typedef name
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(72,16): error 312: cannot overload functions distinguished by return type alone
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(81,6): error 248: variable "G_MaterialIndex_t" has already been defined
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(82,6): error 248: variable "G_LocalizedString_t" has already been defined
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(83,7): error 248: variable "G_MaterialIndex" has already been defined
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(84,7): error 248: variable "G_LocalizedString" has already been defined
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(85,16): error 312: cannot overload functions distinguished by return type alone
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(89,24): error 145: a value of type "game_hudelem_s *" cannot be used to initialize an entity of type "game_hudelem_s *"
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(105,16): error 312: cannot overload functions distinguished by return type alone
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(111,24): error 145: a value of type "game_hudelem_s *" cannot be used to initialize an entity of type "game_hudelem_s *"
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(131,4): error 248: function "GetLevelTime" has already been defined
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(131,4): error 248: function "GetLevelTime" has already been defined
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,233): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,247): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,261): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,275): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,293): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,311): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,329): warning 68: integer conversion resulted in a change of sign
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(156,17): error 312: cannot overload functions distinguished by return type alone
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Huds.h(158,30): error 145: a value of type "game_hudelem_s *" cannot be used to initialize an entity of type "game_hudelem_s *"
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\Functions.h(82,1): error 20: identifier "Vector3" is undefined
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(235): warning 942: missing return statement at end of non-void function "hookStub"
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(262,25): warning 175: expression has no effect
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(283): warning 942: missing return statement at end of non-void function "changeSubmenu"
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(296,23): warning 175: expression has no effect
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(308,6): warning 178: variable "buf" was declared but never referenced
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(351,3): warning 112: statement is unreachable
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(351,9): warning 118: non-void function "GetName" should return a value
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(380): warning 942: missing return statement at end of non-void function "ForceHost"
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(923,4): warning 548: transfer of control bypasses initialization of:
+                     variable "Prestige1" (declared at line 926)
+                     variable "Prestige2" (declared at line 930)
+                     variable "Prestige3" (declared at line 934)
+                     variable "Prestige4" (declared at line 938)
+                     variable "Prestige5" (declared at line 942)
+                     variable "Prestige6" (declared at line 946)
+                     variable "Prestige7" (declared at line 950)
+                     variable "Prestige8" (declared at line 954)
+                     variable "Prestige9" (declared at line 958)
+                     variable "Prestige10" (declared at line 962)
+                     variable "Prestige11" (declared at line 966)
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(998,77): warning 69: integer conversion resulted in truncation
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(1001,78): warning 69: integer conversion resulted in truncation
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(1002,78): warning 69: integer conversion resulted in truncation
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(1003,78): warning 69: integer conversion resulted in truncation
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(1004,78): warning 69: integer conversion resulted in truncation
+         
+     1>C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\prx.cpp(1007,79): warning 69: integer conversion resulted in truncation
+         
+     1>Génération du projet "C:\Users\Utilisateur\Documents\Visual Studio 2012\Projects\SkyFall Menu 15$\Black Ops 3 Non Host Dvar Menu ZM\SkyFall Menu New Design - Copie\BlackOps3ZombieMenuNoHost\BlackOps3ZombieMenuNoHost.vcxproj" terminée (Build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.26
